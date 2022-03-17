@@ -1,4 +1,4 @@
-# new_maps
+## flutter_infinite_scrolling
 
 A new Flutter project.
 
