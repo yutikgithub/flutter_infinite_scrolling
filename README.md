@@ -1,6 +1,16 @@
 ## flutter_infinite_scrolling
 
-A new Flutter project.
+follow this staps.
+
+## 1> api
+
+- add your api in lib/services/remote_services.dart
+
+## 2> model
+
+- create your model class and replace to => lib/model/datamodel.dart
+
+## 3> ok done.
 
 ## Getting Started
 
